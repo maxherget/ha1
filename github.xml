@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="maxherget" id="098f9deb-3bbc-4d1d-a1b2-b3c173425b6b">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
